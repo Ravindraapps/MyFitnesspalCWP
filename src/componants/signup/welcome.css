@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+
+#welcomeDiv{
+    height: 400px;
+    padding: 15% 0 0 0;
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 30%;
+    border-radius: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    justify-content: center;
+}
+
+
+.welcomeContBtn{
+    width:80%;
+    height:40px;
+    font-family: "Neue Plak UA",Helvetica,Arial,-apple-system,sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 1.75;
+    text-transform: uppercase;
+    color: #FFF;
+    text-align: center;
+    background-color: #0066EE;
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: transparent;
+    margin-left: 12%;
+    padding: 2% 0 0 0;
+}
+.Btn{
+    text-decoration: none;
+    color: #FFF;
+}
+
+.welcomeContBtn:hover{
+    background-color: #0653b8;
+}
+
+#welcomeMsg{
+    border: 5px silid blue;
+    padding: 0 12% 0 12%;
+}

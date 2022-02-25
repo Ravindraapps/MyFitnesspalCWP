@@ -1,0 +1,48 @@
+#details{
+    height: 500px;
+    width: 25%;
+    margin-top: 2%;
+    padding-top: 3%;
+    margin-left: 35%;
+    border-radius: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding: 0 50px;
+}
+
+#firstDiv{
+    text-align: left;
+    padding-top: 2%;
+}
+
+#sexDiv{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
+
+#bornDiv{
+    text-align: left;
+}
+
+.date{
+    height: 30px;
+    font-size: 20px;
+}
+
+.textbox{
+    width: 90%;
+}
+.pin1{
+    width: 70%;
+    margin-top: 55%;
+    height: 20px;
+}
+
+#country{
+    display: flex;
+    flex-direction: row;
+}
+#btnNext{
+    text-align: center;
+    margin-top: 10%;
+}
