@@ -1,0 +1,17 @@
+.trialButton{
+    background-color: #0066EE;
+    color: white;
+    height: 60px;
+    width: 90%;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    margin-top: 30px;
+    font-weight: 700;
+    font-weight: 16px;
+    cursor: pointer;
+}
+
+.trialButton:hover{
+    background-color : #1943CF;
+}

@@ -1,0 +1,74 @@
+.qna-main{
+    /* border: 1px solid red; */
+    width: 80vw;
+    margin: auto;
+    height: fit-content;
+}
+
+.qna-div{
+    /* border: 1px solid black; */
+    width: 60vw;
+    margin: auto;
+    height: 100%;
+    padding: 10px;
+}
+
+.qna-div header> div{
+    /* border: 1px solid red; */
+    background-color: #FFC600;
+    width: fit-content;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-weight: 600;
+    font-size: 14px;
+    margin: auto;
+
+}
+
+.qna-div header >h2{
+    font-size: 35px;
+    font-weight: 700;
+    color: #212121;
+    margin-top: 10px;
+}
+
+@media screen and (max-width: 1200px) and (min-width : 570px) {
+
+    .qna-main{
+        width: 100vw;
+    }
+    .qna-div{
+        width: 100vw;
+    }
+    
+}
+
+@media screen and (max-width : 570px) {
+    
+    .qna-main{
+        width: 100vw;
+        background-image: url(../../assets/background/mob-dis-bgi-3.png);
+        background-position:  top right ;
+        background-repeat: no-repeat;
+        background-size: 100px;
+    }
+    
+    .qna-div{
+        width: 100vw;
+    }
+    .qna-div header{
+        padding-left: 25px;
+        /* background-color: red; */
+        text-align: left;
+        margin-bottom: 20px;
+    }
+    .qna-div header>div{
+        margin: 0%;
+    }
+
+    .qna-div header >h2{
+        width: 60%;
+        font-size: 27px;
+    }
+
+}

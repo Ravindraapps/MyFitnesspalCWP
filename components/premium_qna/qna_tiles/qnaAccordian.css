@@ -1,0 +1,93 @@
+.qna-tile {
+
+    /* border: 1px solid black; */
+    margin: auto;
+    border-radius: 4px;
+    width: 85%;
+    margin-bottom: 16px;
+    box-shadow: 0px 2px 4px 0 rgb(0 0 0 / 10%), 0px 0px 1px 0px rgb(0 0 0 / 5%), 0px 0px 3px 0px rgb(0 0 0 / 5%);
+
+}
+
+.accordian {
+    height: 80px;
+    padding: 0px 24px;
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+
+
+.accordian p {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.arrow-div {
+    /* border: 1px solid red; */
+    height: 20px;
+    width: 20px;
+    font-size: 10px;
+    font-weight: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 2.5px;
+    transition-property: transform;
+    transition-duration: 0.5sec;
+}
+
+/* .arrow-div:hover{ */
+/* } */
+
+.rotate-arrow {
+    /* background-color: red; */
+    transform: rotate(180deg);
+    
+}
+
+.accordian:
+
+
+
+.arrow-div svg {
+    display: block;
+    fill: gray;
+
+}
+
+.accordian-content {
+    /* max-height: 0px; */
+    /* height: 0px; */
+    transition: all 0.4sec;
+    overflow: hidden;
+    text-align: left;
+    padding: 20px;
+    font-size: 14px;
+    color: #6D717A;
+
+
+}
+
+@media screen and (max-width: 1200px) and (min-width : 570px) {
+
+    .qna-tile{
+        width: 90vw;
+    }
+    
+    
+}
+
+@media screen and (max-width : 570px) {
+    
+    .qna-tile{
+        width: 90vw;
+    }
+    
+}
