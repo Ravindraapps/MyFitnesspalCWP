@@ -21,9 +21,8 @@
 
 > Tech Stack in Backend:
 1. Mongo DB
-2. CSS3
-3. Node JS
-4. Express JS
+2. Node JS
+3. Express JS
 
 
 # Features
