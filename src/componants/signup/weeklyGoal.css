@@ -1,0 +1,41 @@
+#weeklyGoal{
+    height: 500px;
+    width: 40%;
+    margin-top: 2%;
+    padding-top: 3%;
+    margin-left: 30%;
+    border-radius: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    justify-content: center;
+}
+
+#weeklyQuesDiv{
+    text-align: left;
+    line-height: 15px;
+    padding-left: 10%;
+}
+
+.weeklyGoalques{
+    font-size: 20px;
+}
+
+.weeklyGoalPara{
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.OptionWeklyDiv{
+    text-align: left;
+    padding-left: 10%;
+}
+
+.insideWeeklyDiv{
+    border: 1px solid teal;
+    margin-top: 10px;
+    width: 85%;
+    margin-left: 10%;
+}
+
+.optionsAnsDiv{
+    margin-top: 10%;
+}

@@ -1,0 +1,315 @@
+.navN {
+    width: 100%;
+    height: 46px;
+    font-size: 16px;
+    background-color: rgb(0, 112, 191);
+  }
+  .navNul {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin-left: 10%;
+  }
+  .navNul li {
+    margin-top: 10px;
+    font-weight: 600;
+    color: white;
+    list-style: none;
+  }
+  .liDiv {
+    height: 50px;
+    width: 100px;
+    margin-left: -12px;
+    background-color: rgb(0, 84, 139);
+  }
+  .navN2 {
+    width: 100%;
+    height: 50px;
+    font-size: 12px;
+    margin-top: -12px;
+    background-color: rgb(0, 84, 139);
+  }
+  .navNul2 {
+    display: flex;
+    justify-content: space-around;
+    width: 60%;
+    margin-left: 10%;
+  }
+  .navNul2 li {
+    margin-top: 10px;
+    font-weight: 600;
+    color: white;
+    list-style: none;
+  }
+  /* navbart down part starts here */
+  .containerMainN {
+    display: flex;
+  }
+  .containerN {
+    width: 60%;
+    height: 270px;
+    background-color: rgb(246, 246, 246);
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  .miniN {
+    display: flex;
+    background-color: rgb(10, 82, 130);
+    color: white;
+    justify-content: space-between;
+  }
+  .summary {
+    display: flex;
+  }
+  .mini2 {
+    background-color: rgb(230, 230, 230);
+    width: 20%;
+    height: 140px;
+    margin-left: 20px;
+  }
+  .photo:hover {
+    color: red;
+    cursor: pointer;
+  }
+  .caloriesN {
+    width: 75%;
+    margin-left: 24%;
+    margin-top: -21%;
+  }
+  .boxN {
+    margin-left: -60%;
+  }
+  .caloriesN .rate {
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: -3%;
+    margin-left: -8%;
+    color: rgb(133, 196, 0);
+  }
+  .buttonWrapper {
+    margin-left: 60%;
+    margin-top: -80px;
+  }
+  .caloriesN button {
+    height: 40px;
+    width: 130px;
+    margin-right: 20px;
+    border: 2px solid lightgray;
+    color: gray;
+    background-color: whitesmoke;
+  }
+  
+  .caloriesN button:hover {
+    cursor: pointer;
+    background-color: gray;
+    color: whitesmoke;
+  }
+  .boxN2 {
+    display: flex;
+  }
+  .tracker {
+    display: flex;
+    flex-direction: column;
+    margin-right: 80px;
+    margin-left: 20px;
+    font-size: 20px;
+    color: gray;
+  }
+  .goalN {
+    margin-top: -20px;
+    font-size: 15px;
+  }
+  .progressBar {
+    width: 85%;
+    height: 15px;
+    background-color: lightgray;
+    margin: 10px 20px;
+    border: 1px solid black;
+  }
+  .lastN {
+    display: flex;
+    width: 70%;
+    height: 60px;
+  }
+  .lastN1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: -20px;
+    color: gray;
+  }
+  .lastN1 .lost {
+    margin-top: -20px;
+    font-size: 15px;
+    margin-left: 30px;
+  }
+  .lastN1 .kg {
+    font-size: 20px;
+    display: flex;
+    margin-left: 30px;
+  }
+  .checkIn {
+    margin-left: 50px;
+    width: 30px;
+    height: 35px;
+  }
+  
+  .forum {
+    height: 300px;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 20%;
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 102, 238);
+  }
+  
+  /* EMAIL BOX */
+  
+  .email {
+    display: flex;
+    border: 1px solid rgb(252, 218, 176);
+    width: 60%;
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color: rgb(255, 252, 248);
+  }
+  .envelope {
+    height: 60px;
+    margin-left: 30px;
+  }
+  .notification {
+    line-height: 15px;
+    margin-left: 20px;
+  }
+  .notification :nth-child(1) {
+    color: rgb(25, 67, 207);
+    font-weight: bold;
+  }
+  .notification :nth-child(3) {
+    color: gray;
+    font-weight: bolder;
+  }
+  .changeN {
+    margin-left: 40%;
+    margin-top: 30px;
+  }
+  .changeN button {
+    height: 40px;
+    width: 130px;
+    background-color: rgb(0, 102, 238);
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  .changeN button:hover {
+    background-color: blue;
+  }
+  .changeN p {
+    margin-top: 2px;
+    font-size: 15px;
+    color: rgb(25, 67, 207);
+  }
+  .newsFeed {
+    background-color: rgb(246, 246, 246);
+    width: 60%;
+    margin-left: 200px;
+    margin-top: 30px;
+  }
+  .news1 {
+    width: 100%;
+    height: 40px;
+    background-color: rgb(10, 82, 130);
+  }
+  .news1 p {
+    font-size: 17px;
+    color: white;
+    text-align: left;
+    margin-left: 20px;
+  }
+  .textarea {
+    display: flex;
+  }
+  .textarea input {
+    margin-top: 30px;
+    margin-left: 10%;
+    width: 60%;
+    height: 60px;
+    border: 2px solid rgb(0, 102, 238);
+    outline: none;
+    font-size: 20px;
+  }
+  .textarea input:focus {
+    outline: none;
+    border: 2px solid rgb(0, 102, 238);
+  }
+  .textarea button {
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+    width: 90px;
+    margin-left: 20px;
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(0, 102, 238);
+  }
+  .textarea button:hover {
+    background-color: blue;
+  }
+  
+  /* invite part start here */
+  .inviteFlex {
+    display: flex;
+  }
+  .invite {
+    background-color: rgb(246, 246, 246);
+    width: 60%;
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+  }
+  .inviteIcon {
+    display: flex;
+    margin-left: 300px;
+    background-color: white;
+    width: 200px;
+    border: 1px solid lightgray;
+  }
+  .inviteIcon:hover {
+    background-color: gray;
+  }
+  .iconNik {
+    margin-left: 30px;
+    margin-top: 10px;
+  }
+  .inviteIcon p {
+    margin-top: 1px;
+    font-weight: bold;
+    color: black;
+    margin-left: 10px;
+    margin-top: 10px;
+  }
+  .forum2 {
+    margin-left: 50px;
+    margin-top: -100px;
+    width: 20%;
+    height: auto;
+    background-color: rgb(247, 247, 247);
+    color: rgb(0, 102, 238);
+    font-size: 15px;
+  }
+  
+  /* footer part here */
+  .footer {
+    background-color: rgb(246, 246, 246);
+    padding-bottom: 10px;
+  }
+  .footer2 {
+    display: flex;
+    color: rgb(0, 102, 238);
+    width: 100%;
+    justify-content: center;
+    margin-top: 40px;
+  }
+  .footer2 p {
+    margin: 20px 5px;
+  }

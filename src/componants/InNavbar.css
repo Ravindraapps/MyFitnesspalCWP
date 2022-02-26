@@ -1,0 +1,29 @@
+#detailDiv{
+    width: 60%;
+    text-align: left;
+    padding: 15px;
+    display: flex;
+    margin-left: 45%;
+}
+
+
+.usernameOnHome{
+    color: blue;
+    font-weight: bold;
+}
+
+.usernameHome{
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.verticalBorder{
+    border-right: 1px solid rgb(114, 114, 114);
+    margin-left: 10px;
+    height: 30%;
+    margin-top: 4%;
+}
+.help{
+    color: blue;
+    margin-left: 10px;
+}

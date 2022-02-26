@@ -1,0 +1,59 @@
+#Login{
+    height: 500px;
+    width: 40%;
+    margin-top: 2%;
+    padding-top: 3%;
+    margin-left: 30%;
+    border-radius: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    justify-content: center;
+}
+
+.emailLogin{
+    height: 50px;
+    width: 80%;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.emailLogin:focus{
+    outline-color: blue;
+}
+.passLogin{
+    width: 80%;
+    height: 50px;
+    margin-top: 5%;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.passLogin:focus{
+    outline-color: blue;
+}
+
+.forgetPass{
+    margin-top: 5%;
+}
+
+.forgetPassLink{
+    text-decoration: none;
+}
+.ContinueWithFacebook1{
+    background-color: #3363a1;
+    width: 80%;
+    height: 40px;
+    padding-top: 2%;
+    margin-left: 10%;
+}
+
+.ContinueCreateAcc1{
+    background-color: #0066EE;
+    width: 80%;
+    height: 40px;
+    padding-top: 2%;
+    margin-left: 1%;
+}
+
+#continueAcc1{
+    color: white;
+}

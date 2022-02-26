@@ -1,0 +1,163 @@
+#navbar{
+    display: flex;
+    flex-direction: column;
+}
+
+#upperNav{
+    justify-content: space-between;
+    padding: 0 18%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 80px;
+}
+
+#webLogo{
+    text-decoration: none;
+    color:#0066EE;
+}
+#accDiv{
+    padding: 3% 3% 3% 2%;
+    font-size: 15px;
+}
+#accDiv a:nth-child(1){
+    border-right: 1px solid rgb(99, 97, 97);
+}
+#login{
+    text-decoration: none;
+}
+#signup{
+    text-decoration: none;
+    margin-left: 10px;
+}
+#lowerNav{
+    display: flex;
+    flex-direction: row;
+    background-color: #3887f0;
+    height: 50px;
+    justify-content: space-between;
+    padding: 0 18%;
+}
+.category{
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    height: 50px;
+}
+.innerCatDiv{
+    padding: 1.5% 0;
+}
+
+.innerCatDiv:hover{
+    background-color: rgb(78, 97, 180);
+}
+
+@media only screen and (max-width: 1400px){
+    
+    
+    #upperNav{
+        height: 80px;
+    }
+    
+    #webLogo{
+        font-size: 15px;
+    }
+    #accDiv{
+        font-size: 15px;
+    }
+    
+    #signup{
+        text-decoration: none;
+        margin-left: 10px;
+    }
+    #lowerNav{
+        height: 50px;
+    }
+    .category{
+        margin-top: 2%;
+        font-size: 90%;
+    }
+}
+
+
+@media only screen and (max-width: 1000px){
+    
+    
+    #upperNav{
+        height: 60px;
+    }
+    
+    #webLogo{
+        font-size: 12px;
+    }
+    #accDiv{
+        font-size: 12px;
+    }
+    
+    #signup{
+        text-decoration: none;
+        margin-left: 10px;
+    }
+    #lowerNav{
+        height: 40px;
+    }
+    .category{
+        margin-top: 2%;
+        font-size: 70%;
+    }
+}
+
+
+@media only screen and (max-width: 599px){
+    
+    
+    #upperNav{
+        height: 50px;
+    }
+    
+    #webLogo{
+        font-size: 11px;
+    }
+    #accDiv{
+        font-size: 12px;
+    }
+    
+    #signup{
+        text-decoration: none;
+        margin-left: 10px;
+    }
+    #lowerNav{
+        height: 30px;
+    }
+    .category{
+        margin-top: 1.8%;
+        font-size: 50%;
+    }
+}
+
+@media only screen and (max-width: 449px){
+    
+    
+    #upperNav{
+        height: 40px;
+    }
+    
+    #webLogo{
+        font-size: 8px;
+    }
+    #accDiv{
+        font-size: 8px;
+    }
+    
+    #signup{
+        text-decoration: none;
+        margin-left: 10px;
+    }
+    #lowerNav{
+        height: 20px;
+    }
+    .category{
+        margin-top: 1.8%;
+        font-size: 20%;
+    }
+}
