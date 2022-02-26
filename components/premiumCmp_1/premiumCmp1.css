@@ -17,7 +17,7 @@
 }
 
 
-.upper_content {
+.cmp1_upper_content {
     /* border: 1px solid violet; */
     width: 920px;
     display: flex;
@@ -26,7 +26,7 @@
 }
 
 
-.left_div {
+.cmp1_cmp1_left_div {
     /* border: 1px solid teal; */
     /* max-width: 400px; */
     width: 400px;
@@ -39,7 +39,7 @@
     /* margin-left: 35px; */
 }
 
-.left_div div div {
+.cmp1_left_div div div {
     background-color: #ffc600;
     height: 28px;
     width: 80px;
@@ -50,14 +50,14 @@
 
 }
 
-.left_div h1 {
+.cmp1_left_div h1 {
     font-size: 3rem;
     text-align: left;
     font-weight: 900;
     color: #222628;
 }
 
-.left_div p {
+.cmp1_left_div p {
     color: #6d7a71;
     text-align: left;
     font-size: 16px;
@@ -65,17 +65,17 @@
     margin: 25px 0px;
 }
 
-.right_div {
+.cmp1_right_div {
     width: 400px;
     text-align: left;
     /* margin-right: 20px; */
 }
 
-.right_div img {
+.cmp1_right_div img {
     width: 390px;
 }
 
-.lower_content {
+.cmp1_lower_content {
     /* border: 1px solid red; */
     width: 100%;
     display: flex;
@@ -83,24 +83,24 @@
     gap: 3vw;
 }
 
-.show_case {
+.cmp1_show_case {
     /* border: 1px solid red; */
     width :280px;
     display: flex;
 }
 
-.show_case img {
+.cmp1_show_case img {
     width: 160px;
 
 }
 
-.show_case h3 {
+.cmp1_show_case h3 {
     color: #222628;
 }
 
 
 
-.show_case p {
+.cmp1_show_case p {
     color: #6d7a71;
 }
 
@@ -125,7 +125,7 @@
         
     }
     
-    .upper_content{
+    .cmp1_upper_content{
         width: 100%;
         margin: auto;
         justify-content: space-around;
@@ -146,21 +146,21 @@
         
     }
     
-    .upper_content{
+    .cmp1_upper_content{
         width: 100%;
 
         justify-content: left;
         
     }
-    .left_div{
+    .cmp1_left_div{
         width: 70%;
     }
 
-    .left_div button , .left_div h1{
+    .cmp1_left_div button , .cmp1_left_div h1{
         width: 70%;
     }
 
-    .right_div{
+    .cmp1_right_div{
         display: none;
     }
 
@@ -178,32 +178,32 @@
         
     }
     
-    .upper_content{
+    .cmp1_upper_content{
         width: 100%;
 
         justify-content: left;
         
     }
-    .left_div{
+    .cmp1_left_div{
         width: 90%;
     }
 
-    .left_div button , .left_div h1{
+    .cmp1_left_div button , .cmp1_left_div h1{
         width: 80%;
     }
 
-    .right_div{
+    .cmp1_right_div{
         display: none;
     }
 
 
-    .lower_content{
+    .cmp1_lower_content{
         /* border: 1px dashed red; */
         flex-direction: column;
         
     }
     
-    .show_case{
+    .cmp1_show_case{
         /* border: 1px dashed blue; */
         width: 90%;
         

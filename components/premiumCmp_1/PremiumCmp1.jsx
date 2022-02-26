@@ -6,9 +6,9 @@ export const PremiumCmp1 = () => {
     return (
         <>
             <div className="cmp1div">
-                <div className="upper_content">
+                <div className="cmp1_upper_content">
 
-                    <div className="left_div">
+                    <div className="cmp1_left_div">
                         <div>
                             <div>Premium</div>
                         </div>
@@ -16,12 +16,12 @@ export const PremiumCmp1 = () => {
                         <p>Premium members are 65% more likely to reach their weight loss goal.</p>
                         <TrialButton />
                     </div>
-                    <div className="right_div">
+                    <div className="cmp1_right_div">
                         <img src={require("../../assets/images/cpm1.png")} alt="" />
                     </div>
                 </div>
-                <div className="lower_content">
-                    <div className="show_case">
+                <div className="cmp1_lower_content">
+                    <div className="cmp1_show_case">
                         <div className="showcase_img">
                             <img className="sci-img" src={require("../../assets/images/sc-img1.png")} alt="" />
                             <div className="mobile-screen-img">
@@ -35,7 +35,7 @@ export const PremiumCmp1 = () => {
 
                         </div>
                     </div>
-                    <div className="show_case">
+                    <div className="cmp1_show_case">
                         <div className="showcase_img">
                             <img className="sci-img" src={require("../../assets/images/sc-img2.png")} alt="" />
                             <div className="mobile-screen-img">
@@ -49,7 +49,7 @@ export const PremiumCmp1 = () => {
 
                         </div>
                     </div>
-                    <div className="show_case">
+                    <div className="cmp1_show_case">
                         <div className="showcase_img">
 
                             <img className="sci-img" src={require("../../assets/images/sc-img3.png")} alt="" />

@@ -4,7 +4,7 @@ import "./subscriptionTile.css"
 export const SubscriptionTile = ({ ele }) => {
     return (
 
-        <div className={ele.offer !== "" ? "tile-div offer" : "tile-div"} >
+        <div className={ele.offer !== "" ? "sbs-tile-div offer" : "sbs-tile-div"} >
             {/* {ele.offer!== ""? (<div className="offer-div">{ele.offer}</div>):<></>} */}
             <div className="tile-content">
 

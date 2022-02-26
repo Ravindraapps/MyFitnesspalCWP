@@ -23,7 +23,7 @@ export const PremiumCmp2 = ()=>{
                                 <td className="table-heading" >Premium</td>
                             </tr>
                         </thead>
-                        <tbody>
+                        <tbody className="cmp-table-body">
                                 {tableData.map((ele)=>(
                                     <TableRow element = {ele} key = {ele.desc}  />
                                 ))}
