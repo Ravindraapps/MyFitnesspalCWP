@@ -1,50 +1,8 @@
 {
   "username": [
-    {
-      "username": "Ravi123",
-      "id": 1
-    },
-    {
-      "username": "Ravindra123",
-      "id": 2
-    },
-    {
-      "username": "Harish123",
-      "id": 3
-    },
-    {
-      "username": "pawar12345",
-      "id": 4
-    },
-    {
-      "username": "pawar12345",
-      "id": 5
-    },
-    {
-      "username": "",
-      "id": 6
-    },
-    {
-      "username": "Ravindra123",
-      "id": 7
-    },
-    {
-      "username": "Ravi123",
-      "id": 8
-    },
-    {
-      "username": "",
-      "id": 9
-    },
-    {
-      "username": "ravindra123",
-      "id": 10
-    }
+    
   ],
   "emails": [
-    {
-      "email": "Reasubfsadh@gmail.com",
-      "id": 1
-    }
+    
   ]
 }
