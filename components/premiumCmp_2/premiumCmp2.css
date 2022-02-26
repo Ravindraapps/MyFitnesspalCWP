@@ -1,0 +1,148 @@
+.cpm2_div {
+    /* border: 1px solid red; */
+    width: 90vw;
+    height: fit-content;
+    padding-bottom: 40px;
+    margin: 0px auto;
+    background-image: url(../../assets/background/cpm2-l.png), url(../../assets/background/cpm2-r.png);
+    background-repeat: no-repeat;
+    background-position: top 30px left, bottom right;
+    background-size: auto;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    /* z-index: -2; */
+}
+
+.cmp2_content {
+    /* border: 1px solid black; */
+    width: 70%;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.cmp2_header {
+    /* border: 1px solid black; */
+    width: 100%;
+    height: 20%;
+    padding: 32px 16px 32px;
+}
+
+.cmp2_header h1 {
+    /* border: 1px solid red; */
+    color: #212121;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+
+.cmp2_header p {
+    /* border: 1px solid red; */
+    color: #6D717A;
+    font-size: 16px;
+
+}
+
+.yellow_line {
+    width: 100%;
+    border: 1px solid #FFC600;
+    background-color: #FFC600;
+    position: relative;
+    top: 40px;
+}
+
+.cmp2_table {
+    /* border: 1px solid red; */
+    width: 80%;
+    
+    
+}
+
+.cmp2_table table {
+    display: table;
+    border-collapse: collapse;
+    border-spacing: 0%;
+    width: 100%;
+}
+
+.cmp_thead {
+    /* border: 1px solid red; */
+    display: table-header-group;
+    background: transparent;
+    height: 40px;
+    
+
+    
+}
+
+.cmp-table-body {
+    background-color: #fff;
+    box-shadow: 0px 4px 14px 0px rgb(0 0 0 / 15%);
+}
+
+
+@media screen and (max-width : 1200px ){
+
+    .cmp2-div{
+        background-image: none;
+    }
+    
+}
+
+
+@media screen and (max-width : 1200px) {
+    
+
+    .cpm2_div{
+        width: 100vw;
+    }
+
+    .cmp2_content, .cmp2_table{
+        width: 99vw;
+    }
+
+    .cpm2_div{
+        background-image: none;
+    }
+
+
+    
+}
+
+@media screen and (max-width : 570px) {
+
+    .cpm2_div{
+        background-image: url(../../assets/background/mob-dis-bgi-2.png);
+        background-position: top right;
+        background-size: 90px;
+    }
+
+    .cmp2_header{
+        padding-left: 30px;
+    }
+    
+    .cmp2_header h1{
+        text-align: left;
+        font-size: 20px;
+    }
+    .cmp2_header p{
+        text-align: left;
+        font-size: 16px;
+    }
+
+
+
+    .table-heading{
+        /* border: 1px dashed red; */
+        font-size: 12px;
+        font-weight: 600;
+        width: 70px;
+        text-align: center;
+    }
+    
+
+
+}
+

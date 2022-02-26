@@ -1,0 +1,98 @@
+.sbs-tile-div{
+    /* border: 1px solid red; */
+    width: 400px;
+    color: #212121;
+    position: relative;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 14px 0 rgb(0 0 0 / 13%);
+}
+
+.offer{
+    border: 4px solid #FFC600;
+}
+.offer::before{
+    content: "SAVE 67%";
+    font-weight: 900;
+    position: absolute;
+    left: 0%;
+    top: 0%;
+    width: 100%;
+    height: 25px;
+    background-color: #FFC600;
+    border-bottom:none ;
+    border-radius: 4px 4px 0px 0px ;
+}
+.tile-content{
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.offer-div{
+    position: relative;
+    z-index: 2;
+    /* background-color: #FFC600; */
+    /* height: 700px; */
+}
+.mt-10{
+    margin-top: 10px;
+}
+
+.tile-content h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.tile-content h1>span{
+    font-size: 50px;
+}
+
+.tile-content h1{
+    font-size: 16px;
+}
+.tile-content p{
+    width: 60%;
+    margin:10px auto;
+    font-weight: 600;
+    font-size: 16px;
+    color: #6D717A;
+}
+
+.sbs-btn{
+    height: 60px;
+    border-radius: 5px;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    margin: 20px 0px;
+
+}
+
+.yearly-btn{
+    border: none;
+    color: white;
+       background-color: #0066EE;
+}
+
+.yearly-btn:hover{
+    background-color: #1943CF;
+}
+
+
+.monthly-btn{
+    border: 2px solid #0066EE;
+    color: #0066EE;
+}
+
+@media screen and (max-width: 1200px) and (min-width : 570px) {
+    
+    
+}
+
+@media screen and (max-width : 570px) {
+    
+    
+    
+}

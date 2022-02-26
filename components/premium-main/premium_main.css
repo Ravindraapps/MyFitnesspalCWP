@@ -1,0 +1,22 @@
+.main_div{
+    margin-top: 133px;
+    /* border: 1px solid red; */
+    width: 100vw;
+    height: fit-content;
+    background-image: url(../../assets/background/bgc-svg.svg) ;
+    background-size: contain;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+
+}
+
+@media  (max-width : 990px) {
+
+    .main_div{
+        background-image: none;
+
+    }
+    
+}
