@@ -64,8 +64,7 @@ Some questions required to be answer during sign up...
 
 <img width="908" alt="fit_signup" src="https://user-images.githubusercontent.com/87423101/155872135-45fa3567-74ae-426f-b9eb-ac0b9cec4ade.png">
 
-
-
+<img width="922" alt="fit_signup2" src="https://user-images.githubusercontent.com/87423101/155872236-c501be9c-3799-4991-849d-9dd5a42bf475.png">
 
 
 
