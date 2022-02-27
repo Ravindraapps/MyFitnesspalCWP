@@ -66,6 +66,12 @@ Some questions required to be answer during sign up...
 
 <img width="922" alt="fit_signup2" src="https://user-images.githubusercontent.com/87423101/155872236-c501be9c-3799-4991-849d-9dd5a42bf475.png">
 
+<img width="910" alt="fit_signup3" src="https://user-images.githubusercontent.com/87423101/155872469-2b714109-6fb3-4fc8-a543-f7fa702c3465.png">
+
+<img width="911" alt="fit_signup4" src="https://user-images.githubusercontent.com/87423101/155872537-8378e4ff-c5df-42b8-b9bf-3e411bd29651.png">
+
+<img width="910" alt="fit_signup5" src="https://user-images.githubusercontent.com/87423101/155872604-c3effa72-814c-4041-8b77-dc5debcbee8b.png">
+
 
 
 ### Blog page:
