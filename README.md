@@ -77,6 +77,7 @@ You can see the blog page by just clicking on the "blog " on the navigation bar.
 you can go to premium page on clicing "premium" on the Navbar. you can get many intreseting offers in premium subscription and explore all of that.
 
 
+<img width="914" alt="fit_premium" src="https://user-images.githubusercontent.com/87423101/155871473-c599f9f8-7087-4f09-95b6-028435e28324.png">
 
 
 ## Instructions to Run the Code 
