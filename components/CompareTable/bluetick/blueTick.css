@@ -1,0 +1,20 @@
+.blue_tick{
+    /* border: 1px solid black; */
+    width: 40px;
+    height: 40px;
+    color: #0066EE;
+    width: 9vw;
+    text-align: center;
+    margin: auto;
+    
+    
+}
+
+.blue_tick svg{
+    height: 20px;
+    fill: #0066EE;
+}
+
+
+
+
