@@ -82,7 +82,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   <li>LinkedIn: <a href="#"> LinkedIn :</a></li>
 </ul>
 
-<br>
+
 
 <h3>Reyya Harish</h3>
 <ul>
@@ -91,7 +91,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   <li>LinkedIn: <a href="#">LinkedIn :</a></li>
 </ul>
 
-<br>
+
 
 <h3>Nikhil Tiwari</h3>
 <ul>
@@ -100,7 +100,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   <li>LinkedIn: <a href="#">LinkedIn : </a></li>
 </ul>
 
-<br>
+
 
 <h3>Nikhil Shakya</h3>
 <ul>
@@ -109,7 +109,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   <li>LinkedIn: <a href="https://www.linkedin.com/in/nikhil-shakya-3a1939213/">https://www.linkedin.com/in/nikhil-shakya-3a1939213/ </a></li>
 </ul>
 
-<br>
+
 
 <h3>Abhishek singh</h3>
 <ul>
