@@ -41,6 +41,10 @@ You are on our Landing page now. you get to see what are things our website prov
 <img width="912" alt="fit_landing" src="https://user-images.githubusercontent.com/87423101/155871316-6eb5925a-1547-429a-9adb-af0ed07f4502.png">
 
 
+<img width="908" alt="fit_landing2" src="https://user-images.githubusercontent.com/87423101/155872040-fb31314f-f9e0-46f0-aacc-18e4fccf3ff0.png">
+
+
+
 ### Login and Sign up Page:
 User need to login before purchasing products from “myfitnesspal”. If user's are existing user they can login and if they are not existing user then they can register using sign up.
 
