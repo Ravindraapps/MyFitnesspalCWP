@@ -72,7 +72,10 @@ Some questions required to be answer during sign up...
 
 <img width="910" alt="fit_signup5" src="https://user-images.githubusercontent.com/87423101/155872604-c3effa72-814c-4041-8b77-dc5debcbee8b.png">
 
+### Home page:
+After succesful login you wiil be redirected to home page where you can see the advices to follow.
 
+![home page](https://user-images.githubusercontent.com/87423101/155874734-0cac725d-64d8-405f-a96e-1343bf07f515.png)
 
 ### Blog page:
 You can see the blog page by just clicking on the "blog " on the navigation bar. On cliking you can get blogs written by some people who already used this app. click on the articles and see the whole story on the article.
