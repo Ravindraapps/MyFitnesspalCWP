@@ -49,7 +49,7 @@ User need to login before purchasing products from “myfitnesspal”. If user's
 ##### login page:
 To login User has to enter their Phone number and password to log into the website.
 
-## image
+<img width="908" alt="fit_login" src="https://user-images.githubusercontent.com/87423101/155871606-067b6799-05b5-4aee-ba29-9daed88856f5.png">
 
 
 
