@@ -78,7 +78,10 @@ Some questions required to be answer during sign up...
 You can see the blog page by just clicking on the "blog " on the navigation bar. On cliking you can get blogs written by some people who already used this app. click on the articles and see the whole story on the article.
 
 
-## image
+<img width="910" alt="fit_blog1" src="https://user-images.githubusercontent.com/87423101/155872746-05881fe7-af15-4ec5-8141-c973deb89371.png">
+
+<img width="910" alt="blog2" src="https://user-images.githubusercontent.com/87423101/155872811-544b9d4e-2204-4a13-a079-81877ce23dd1.png">
+
 
 
 
