@@ -54,7 +54,7 @@ To login User has to enter their Phone number and password to log into the websi
 
 
 ##### Sign Up page:
-To signup User has to register the by entering their name , email, phone number, password and then the things u want to do like losing or gain weight preferences and click on the "create account" button. You are now succesfully logged In.
+To signup User has to register the by entering their name , email, phone number, password and then the things you want to do like losing or gain weight preferences and click on the "create account" button. You are now succesfully logged In.
 
 ## image
 
