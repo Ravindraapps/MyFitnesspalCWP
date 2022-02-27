@@ -79,6 +79,10 @@ you can go to premium page on clicing "premium" on the Navbar. you can get many 
 
 <img width="914" alt="fit_premium" src="https://user-images.githubusercontent.com/87423101/155871473-c599f9f8-7087-4f09-95b6-028435e28324.png">
 
+<img width="910" alt="fit_premium2" src="https://user-images.githubusercontent.com/87423101/155871921-d3b61ddd-35c5-4d88-a6fe-6ea599011a68.png">
+
+
+
 
 ## Instructions to Run the Code 
 #### Note:
