@@ -36,7 +36,7 @@
 # Roles and Responsibilities
 
 ### Landing Page:
-You are on our Landing page now. you get to see what are things our website provides after signing in along with your requirements. 
+You are on our Landing page now. you get to see what are things our website provides before signing in. 
 
 <img width="912" alt="fit_landing" src="https://user-images.githubusercontent.com/87423101/155871316-6eb5925a-1547-429a-9adb-af0ed07f4502.png">
 
