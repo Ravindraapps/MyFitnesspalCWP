@@ -109,7 +109,7 @@ We created cloud database using MongoDb Atlas. So, if you want to run our code t
 - Open corresponding terminal in your VS Code and run the command `json-server db.json --port 3001 --watch`
 - It will redirect to browser
 - Now you can see landing page 
-- Then you can Navigate through other pages from Landing page to Medicine tab, Lab tab etc
+- Then you can Navigate through other pages from Landing page to other pages.
 
 
 
