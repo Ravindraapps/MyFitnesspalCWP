@@ -35,6 +35,11 @@
 
 # Roles and Responsibilities
 
+### Landing Page:
+You are on our Landing page now. you get to see what are things our website provides after signing in along with your requirements. 
+
+<img width="912" alt="fit_landing" src="https://user-images.githubusercontent.com/87423101/155871316-6eb5925a-1547-429a-9adb-af0ed07f4502.png">
+
 
 ### Login and Sign up Page:
 User need to login before purchasing products from “myfitnesspal”. If user's are existing user they can login and if they are not existing user then they can register using sign up.
@@ -54,11 +59,6 @@ To signup User has to register the by entering their name , email, phone number,
 ## image
 
 
-
-### Landing Page:
-You are on our Landing page now. you get to see what are things our website provides after signing in along with your requirements. 
-
-## image
 
 
 ### Blog page:
