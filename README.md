@@ -82,7 +82,7 @@ you can go to premium page on clicing "premium" on the Navbar. you can get many 
 ## Instructions to Run the Code 
 #### Note:
 We created cloud database using MongoDb Atlas. So, if you want to run our code then please read the instructions below :
-- Clone our repository ``
+- Clone our repository `https://github.com/Ravindraapps/MyFitnesspalCWP.git`
 - Open terminal in your VS Code and run the command `npm install` which will install all packages.
 - Open terminal in your VS Code and run the command `npm start` 
 - Open corresponding terminal in your VS Code and run the command `json-server db.json --port 3001 --watch`
